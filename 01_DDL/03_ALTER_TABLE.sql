@@ -145,4 +145,4 @@ RENAME TO Employees
 
 --# new trend 
 
-RENAME TABLE employee TO Employees
+RENAME TABLE employee TO Employees    
