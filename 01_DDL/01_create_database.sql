@@ -77,7 +77,3 @@ Database changed
 | college    |
 +------------+
 
-git status
-git add .
-git commit -m "Added CREATE practice"
-git push
