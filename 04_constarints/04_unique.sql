@@ -33,3 +33,8 @@ INSERT INTO employees VALUES (3, 'Anil', 'harish@gmail.com');
 
 
 UNIQUE = No duplicate values
+
+git status
+git add .
+git commit -m "Added constaints practice"
+git push 
