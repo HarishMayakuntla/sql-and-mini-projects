@@ -1,0 +1,29 @@
+ 1. Types of SQL Functions
+
+SQL functions are mainly divided into:
+
+A. Single-row / Scalar Functions
+
+
+Work on one row at a time and return one result for each row.
+
+Examples:
+
+UPPER()
+LOWER()
+LENGTH()
+ROUND()
+COALESCE()
+
+
+B. Aggregate Functions
+
+Work on multiple rows and return one result.
+
+Examples:
+
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
